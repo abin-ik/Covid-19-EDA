@@ -99,8 +99,5 @@ These insights can guide **public health strategies** and help identify **high-r
 
 ---
 
-### 👨‍💻 Author
-**Abin**  
-Full Stack & AI Developer  
-💼 *Passionate about data-driven insights and intelligent system development.*
+
 
