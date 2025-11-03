@@ -44,7 +44,7 @@ Each record represents an individual COVID-19 patient, with attributes such as:
 ### **3️⃣ ICU Admission & Survival Rate**  
 **Question:** How many patients were admitted to the ICU, and what percentage survived?  
 **Answer:** A **small proportion** of patients required ICU care, and **around 50% of those did not survive**, showing the severity of cases requiring intensive support.  
-![icu](images/icu_analysis.png)
+
 
 ---
 
